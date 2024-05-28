@@ -1,1 +1,1 @@
-# Personal-AI-Trainer
+The Personal AI Trainer is an intelligent gym assistant designed to help you perfect your workout routine. Using advanced computer vision and machine learning techniques, it monitors your gym poses, counts your reps, and ensures your posture is correct. This project aims to provide real-time feedback, improve workout effectiveness, and reduce the risk of injury.
